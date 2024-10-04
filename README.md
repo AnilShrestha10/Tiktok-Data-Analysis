@@ -1,4 +1,5 @@
-This repository provides a Python codebase for analyzing TikTok engagement data. It simulates data for 1,000 users, cleans and prepares the data, clusters users based on their engagement and content creation behavior, and visualizes the results to uncover insights.
+This repository provides a Python codebase for analyzing TikTok engagement data. 
+It simulates data for 1,000 users, cleans and prepares the data, clusters users based on their engagement and content creation behavior, and visualizes the results to uncover insights.
 
 You can use this code to:
 
