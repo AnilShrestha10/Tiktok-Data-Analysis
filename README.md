@@ -8,7 +8,7 @@ Optimize content strategy: Identify the types of content that resonate best with
 Improve engagement: Develop targeted strategies to increase user engagement and retention.
 To get started:
 
-Clone the repository: git clone https://github.com/your-username/tiktok-engagement-analysis
+Clone the repository: git clone https://github.com/AnilShrestha10/Tiktok-Data-Analysis
 
 Install dependencies: pip install -r requirements.txt
 Run the code: python main.py
